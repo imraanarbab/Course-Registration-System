@@ -1,0 +1,15 @@
+CS,1A,Introduction to Computer Science 1,CS1A,20,45,10
+CS,1B,Introduction to Computer Science 2,CS1B,15,30,5
+BIO,19,Marine Biology,BIO19,17,32,1
+BIO,20,Introduction to Biology,BIO20,17,28,12
+MATH,3A,Analytic Geometry and Calculus,MATH3A,25,40,10
+MATH,3B,Analytic Geometry and Calculus 2,MATH3B,30,45,5
+MATH,3C,Analytic Geometry and Calculus 3,MATH3C,30,45,5
+MATH,10,Introduction to Statistics,MATH10,20,40,20
+ANTH,1,Biological Anthropology,ANTH1,30,50,12
+ANTH,2,Cultural Anthropology,ANTH2,23,35,5
+CHEM,1A,Organic Chemistry,CHEM1A,20,50,5
+CS,1C,Introduction to Computer Science 3,CS1C,15,30,5
+CS,1D,Introduction to Computer Science 4,CS1D,15,30,5
+CHEM,12A,Natural Chemistry,CHEM12A,20,50,5
+CHEM,13A,Lab Chemistry,CHEM13A,20,50,5
