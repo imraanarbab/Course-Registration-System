@@ -1,0 +1,20 @@
+FirstName,MiddleName,LastName,Email,PhoneNumber,Address,City,State,Zipcode,DOB,GPA,StartDate
+Gayle,Leo,Schmitt,gschmidtt@gmail.com,949-590-2098,709 Wagon Drive,Thornton,MI,44039,2003-1-1,4.0,2020-1-1
+Antonio,Rey,Kennedy,akennedy@outlook.com,773-936-3773,506 Hall St.,Melrose,GA,60010,2001-5-7,3.8,2019-4-15
+Katelyn,Noel,Nunez,knunez@gmail.com,912-656-9462,211 Hudson Court,Mebane,NC,11357,2003-8-14,3.5,2018-3-1
+Juan,Rashad,Chandler,jchandler@gmail.com,865-987-7175,8010 Henry Drive,Malden,CA,44136,2004-5-4,3.4,2019-11-1     
+Stacey,Ursula,Moss,smoss@gmail.com,678-859-9976,917 Warren Road,Garfield,NJ,44240,2001-3-21,3.9,2021-8-15
+Kendall,Shirley,Marsh,kmarsh@hotmail.com,729-423-2823,281 Shelby Drive,Neptune,NM,21740,2000-9-13,3.2,2021-8-15
+Charmaine,Sherry,Molina,cmolina@yahoo.com,973-366-2268,20 Glenridge Road,San Jose,CA,08527,2000-5-4,3.1,2020-8-10
+Kip,Edgar,Carillo,kcarillo@yahoo.com,288-858-8787,10 Gulf lane,Banning,MD,01845,1999-9-29,3.3,2021-6-10
+Trisha,Milton,Patterson,tpatterson@yahoo.com,878-339-5847,8270 Swamp St.,Riverside,CA,34786,2002-10-23,3.0,2020-8-20
+Erin,Haley,Stark,estark@yahoo.com,785-721-8210,8 Harvey Dr.,Los Angeles,CA,48124,2000-6-26,2.5,2022-1-20
+Lara,Alexis,Sanchez,lsanchez@gmail.com,245-870-5003,5 Rocky River Dr.,Murrieta,CA,85718,2000-7-14,2.9,2023-8-18
+Rodrick,Nathaniel,Stones,rstones@yahoo.com,636-921-4792,8434 Augusta Lane.,San Diego,CA,19063,2005-9-25,2.7,2019-3-19
+Eugenio,Kirk,Santos,esantos@outlook.com,368-250-7649,322 Cleveland Dr.,Dundalk,NY,11432,2007-4-19,2.4,2021-6-10 
+John,Jay,Barrett,jbarrett@yahoo.com,598-779-5372,712 Ryan St.,Decatur,VA,30038,2005-11-3,2.0,2022-2-9
+Kent,Norris,Mcdonald,kmcdonald@yahoo.com,244-633-2198,289 Tailwater St.,Davison,IL,29440,2006-12-15,4.0,2021-6-9
+Nick,Oliver,Ward,nward@gmail.com,937-511-8692,7 Halifax Ave.,Memphis,TN,42141,2001-11-14,3.3,2020-4-15   
+Randi,Esther,Hianna,rhianna@outlook.com,607-333-9325,9243 Arcadia St.,Charlotte,NC,02131,1998-11-19,3.5,2021-8-15
+Angela,Millie,Ray,aray@hotmail.com,988-441-1378,76 Academy St.,Portland,OR,19063,1999-12-26,3.9,2020-4-1
+Marcus,John,Smith,msmith@yahoo.com,494-943-0687,34 Grand Road,Sacramento,CA,85718,2004-3-13,4.0,2018-8-10
