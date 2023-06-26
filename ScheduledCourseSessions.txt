@@ -1,0 +1,120 @@
+Course ID: CS1A
+Course Name: Introduction to Computer Science 1
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 214
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: CS1B
+Course Name: Introduction to Computer Science 2
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 601
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: BIO19
+Course Name: Marine Biology
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 903
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: BIO20
+Course Name: Introduction to Biology
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 929
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: MATH3A
+Course Name: Analytic Geometry and Calculus
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 606
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: MATH3B
+Course Name: Analytic Geometry and Calculus 2
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 755
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: MATH3C
+Course Name: Analytic Geometry and Calculus 3
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 73
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: MATH10
+Course Name: Introduction to Statistics
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 992
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: ANTH1
+Course Name: Biological Anthropology
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 952
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: ANTH2
+Course Name: Cultural Anthropology
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 344
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: CHEM1A
+Course Name: Organic Chemistry
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 579
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: CS1C
+Course Name: Introduction to Computer Science 3
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 544
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: CS1D
+Course Name: Introduction to Computer Science 4
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 313
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: CHEM12A
+Course Name: Natural Chemistry
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 214
+  Instructor: N/A
+  Number of Students: 0
+
+Course ID: CHEM13A
+Course Name: Lab Chemistry
+Instructor: Derek Richard Vancise
+Sessions:
+- Session ID: 695
+  Instructor: N/A
+  Number of Students: 0
+
