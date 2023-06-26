@@ -1,0 +1,20 @@
+FirstName   MiddleName  LastName    Email                   PhoneNumber     Address             City        State    Zipcode   DOB          HireDate     Tenured
+Devon,Jennie,Vinsel,dvinsel@outlook.com,949-513-2018,720 Stagecoach Drive,Flint,MI,42190,1985-2-5,2020-1-1,T
+Leland,Rose,Hardge,lhardge@gmail.com,714-588-3773,501 Wilson St.,Birmingham,NY,42015,1978-3-7,2019-4-15,F
+Arielle,Josie,Lapar,alapar@gmail.com,917-643-4462,211 Bittencourt Ln.,Brooklyn,NY,12432,1987-1-21,2018-3-1,F
+Brooklyn,Keisha,Tougas,btougas@gmail.com,949-435-8093,8010 Jeager St.,Merced,CA,92677,1999-5-4,2020-03-1,F     
+Nolan,Michelle,Stofer,nstofer@hotmail.com,949-597-9976,917 Somerset Road,Lexington,NJ,96565,1971-7-9,2021-8-15,T
+Iris,Baku,Alonge,ialonge@hotmail.com,714-321-2814,281 Cobra Lane,Oakland,CA,45410,1987-5-14,2018-5-15,F
+Leona,Sherri,Blackner,lblackner@yahoo.com,858-366-2178,20 Rodeo Road,Miami,FL,15521,1969-3-12,2008-8-10,T
+Sydney,Maude,Drullard,sdrullard@yahoo.com,213-727-8787,10 Chestnut lane,Baltimore,MD,13345,1991-5-20,2016-4-10,F
+Myrtle,Daisy,Vaccarello,mvaccarello@hotmail.com,913-413-4563,9133 Hickory St.,Davis,CA,31316,1988-10-13,2019-5-01,F
+Luke,Joseph,Rothberg,lrothberg@yahoo.com,714-721-8956,8 Cabot Dr.,Irvine,CA,33121,1975-4-26,2006-9-3,T
+Oscar,Louis,Dickes,odickes@gmail.com,213-871-5103,5 Mountain Dr.,Atlanta,GA,21333,1992-3-1,2017-4-1,F
+Parker,Roger,Gresh,pgresh@outlook.com,301-922-4782,8434 Griffin Lane.,San Jose,CA,45657,1969-3-29,2005-9-1,T
+Jared,Charles,Kornbau,jkornbau@outlook.com,312-435-7649,322 Princess Dr.,Albany,NY,45432,1980-7-7,2009-9-20,T 
+Ivan,Marcus,Portwood,iportwood@yahoo.com,613-779-5333,712 Washington St.,Tampa,FL,50511,1996-1-15,2018-10-1,F
+Jaxson,Henry,Tiboni,jtiboni@gmail.com,818-613-2143,289 Pilgrim St.,Naples,FL,34322,1992-2-15,2007-8-5,T
+Iker,Jose,Garcia,igarcia@gmail.com,913-094-7354,7 Bayport Ave.,Montclair,NJ,99001,1989-5-20,2006-9-13,T   
+Ryker,Luke,Swales,rswales@hotmail.com,737-333-9212,8733 N. Talbot Dr.,Charlotte,NC,79023,1993-11-19,,2018-2-19,F
+Cody,Milton,Bishard,cbishard@hotmail.com,919-553-4521,76 Corona St.,Northville,MI,01917,1982-5-25,2004-6-15,T
+Derek,Richard,Vancise,dvancise@yahoo.com,949-5885-5478,34 Bowman St.,Raleigh,NC,78324,1991-2-2,2014-3-25,F
