@@ -1,0 +1,4 @@
+//Maximum number of courses a student can take
+max_courses_per_student = 4
+//Maximum number of sessions a faculty member can teach
+max_sessions_per_faculty = 3
